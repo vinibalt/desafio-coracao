@@ -1,0 +1,11 @@
+2)	Programa que lê o código, o sexo (M-Masculino e F-Feminino) e o número de horas/aula dadas no mês dos professores
+de uma escola, sabendo que um professor ganha R$ 15,00 hora/aula e que a escola possui 5 professores. Após a leitura, mostre:
+
+a) Uma listagem contendo o código, o salário bruto, o desconto e o salário líquido de todos os professores;
+b) A média aritmética dos salários brutos dos professores do sexo masculino;  
+c) A média aritmética dos salários brutos dos professores do sexo feminino;
+ Os descontos são assim calculados:
+
+Sexo      Até 70 horas/aula ao mês     Mais que 70 horas/aula ao mês
+M                10%                                 8%
+F                 7%                                 5%      

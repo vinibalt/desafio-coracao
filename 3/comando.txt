@@ -1,0 +1,16 @@
+3)	Faça um programa em C que leia os seguintes dados de cinco alunos da Faculdade Catolica: 
+Nome, Número da matrícula, Telefone, Sexo (M ou F), Freqüência (nº de aulas freqüentadas) e as  duas notas (A1 e A2)
+
+
+Calcule e mostre:
+         
+a)Para cada aluno, o nome, o número da matrícula, a freqüência, a média final e a mensagem 
+(aprovado ou reprovado). Para ser aprovado a média final >= 6.0 e a frequência >= 60 aulas.
+
+b)A maior e a menor média final da turma. 
+
+c)O nome, número de matrícula e a média final, do aluno(a) com a maior média da turma.
+
+d)O total de alunos aprovados e reprovados.
+
+e)A percentagem de alunos reprovados por freqüência (para ser reprovado por freqüência, a freqüência deve ser menor que 60 aulas).
